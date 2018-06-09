@@ -1,1 +1,21 @@
-theme: jekyll-theme-slate
+# Dependencies
+highlighter:      rouge
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Penny and Dime
+tagline:          'Penny and Dime'
+description:      'Penny and Dime.'
+
+author:
+  name:           'Sara'
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
