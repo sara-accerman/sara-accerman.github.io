@@ -5,9 +5,11 @@ highlighter:      rouge
 permalink:        pretty
 
 # Setup
-title:            Penny and Dime
-tagline:          'Penny and Dime'
-description:      'Penny and Dime.'
+title:            Sara's Blog
+tagline:          'Sara's Blog'
+description:      'Sara's Blog'
+url:              https://sara-accerman.github.io/
+baseurl:          "https://sara-accerman.github.io/"
 
 author:
   name:           'Sara'
