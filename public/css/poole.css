@@ -183,10 +183,13 @@ pre code {
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
+  box-shadow: rgba(0, 0, 0, 0.55) 0px 20px 68px;
 }
 .highlight pre {
   margin-bottom: 0;
 }
+
+
 
 /* Gist via GitHub Pages */
 .gist .gist-file {
