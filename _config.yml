@@ -6,15 +6,15 @@ permalink:        pretty
 
 # Setup
 title:            Sara's Blog
-tagline:          'Sara's Blog'
-description:      'Sara's Blog'
+tagline:          "Sara's Blog"
+description:      "Sara's Blog"
 url:              https://sara-accerman.github.io/
 baseurl:          "https://sara-accerman.github.io/"
 
 author:
   name:           'Sara'
 
-paginate:         5
+paginate:         10
 
 # Custom vars
 version:          2.1.0
